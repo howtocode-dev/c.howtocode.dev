@@ -13,7 +13,12 @@
    * [ভেরিয়েবলস](variables)
    * [ডাটা টাইপস](data_types)
    * [ডিক্লারেশনস](declarations)
+   * [লাইব্রেরী ফাংশনের ধারণা](.)
 * [অপারেটরস এবং এক্সপ্রেশনস](operators_and_expressions/README)
    * [অ্যারিথমেটিক অপারেটরস](operators_and_expressions)
    * [রিলেশনাল এবং লজিক্যাল অপারেটরস](operators_and_expressions)
+   * [কন্ডিশনাল অপারেটরস](operators_and_expressions)
+* [ইনপুট এবং আউটপুট](README)
+   * [স্ট্যান্ডার্ড ইনপুট এবং আউটপুট](.)
+   * [ফাইল থেকে ইনপুট এবং আউটপুট](.)
 
