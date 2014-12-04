@@ -5,6 +5,7 @@
    * [কম্পিউটার প্রোগ্রামিং কি?](computer_programming.md)
    * [সি এর জন্মকথা](c_history.md)
    * [প্রয়োজনীয় সফটওয়্যার](required_software.md)
+   * [প্রথম প্রোগ্রাম](first_program.md)
    * [কিছু সাধারণ সি প্রোগ্রাম](.)
 * [সি এর মৌলিক বিষয়াবলী](.)
    * [ক্যারেক্টার সেট](character_set.md)
