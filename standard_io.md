@@ -59,7 +59,7 @@ int main()
 
 উপরের প্রোগ্রামে একটি character variable  x নিয়েছি। এখন প্রোগ্রামটি রান করার পর আপনি যাই ইনপুট দিবেন,  putchar Function দ্বারা আপনাকে দেখাবে।
 
- 
+
 
 ছোট অক্ষরকে বড় অক্ষরে পরিনত করাঃ
 
@@ -136,7 +136,7 @@ scanf(“%c”,&name);
 | %x | Input হিসেবে Hexadecimal Data item নিতে পারবেে।|
 
 
-control string কে কেউ কেউ আবার Placeholder ও বলে থাকে। 
+control string কে কেউ কেউ আবার Placeholder ও বলে থাকে।
 
 “printf” function ব্যবহারের নিয়মঃ
 
@@ -172,7 +172,7 @@ printf(“%c”, name);
 ```c
 #include <stdio.h>
 int main(void)
- 
+
 {
 	char name[80];
 	scanf("%s",&name);
