@@ -31,3 +31,6 @@
    * [do - while](.)
    * [for লুপ](.)
    * [switch case](.)
+* [ফাংশন](functions.md)
+   * [প্রাথমিক ধারণা](functions.md)
+   * [ইউজার ডিফাইনড ফাংশন](user_defined_functions.md)
