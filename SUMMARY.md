@@ -37,4 +37,4 @@
 * [অ্যারে](array_intro.md)
    * [প্রাথমিক ধারণা](array_intro.md)
    * [ওয়ান ডাইমেনশনাল অ্যারে](one_dimen_array.md)
-   
+   * [মাল্টি ডাইমেনশনাল অ্যারে](multy_dimen_array.md)
