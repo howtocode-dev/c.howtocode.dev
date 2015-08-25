@@ -26,7 +26,7 @@
    * [ফাইল থেকে ইনপুট এবং আউটপুট](file_io.md)
 * [কন্ট্রোল স্টেটম্যান্ট](control-statement.md)
    * [প্রাথমিক ধারনা](control-statement.md)
-   * [if - else](.)
+   * [if - else](if_else.md)
    * [while লুপ](.)
    * [do - while](.)
    * [for লুপ](.)
