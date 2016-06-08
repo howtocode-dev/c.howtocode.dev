@@ -2,7 +2,7 @@
 
 লুপিং এর কাজে সবছেয়ে বেশি ব্যবহৃত হয় for loop. এ for loop এর তিনটি অংশ রয়েছে। তার আগে আমরা দেখেনি for loop সাধারন ব্যবহার নিয়ম।
 
-## for(exprission1;Exprission2;Expression3)Statement
+### for(exprission1;Exprission2;Expression3)Statement
 
 বিদ্রঃ এখানে প্রত্যেকটি Expression ; (সেমিকোলন) দিয়ে আলাদা করে দিতে হবে।
 
