@@ -40,3 +40,5 @@
    * [মাল্টি ডাইমেনশনাল অ্যারে](multy_dimen_array.md)
 * [পয়েন্টার](pointer_intro.md)
    * [প্রাথমিক ধারণা](pointer_intro.md)
+* [স্ট্রাকচার](struct_intro.md)
+   * [প্রাথমিক ধারণা](struct_intro.md)
