@@ -42,3 +42,5 @@
    * [প্রাথমিক ধারণা](pointer_intro.md)
 * [স্ট্রাকচার](struct_intro.md)
    * [প্রাথমিক ধারণা](struct_intro.md)
+* [ফাইল অপারেশন](file_io.md)
+   * [প্রাথমিক ধারণা](file_io.md)
